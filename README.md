@@ -16,13 +16,3 @@ This GitHub is my **technical portfolio** — every repo here is a project I bui
 - 🔗 LinkedIn: **https://www.linkedin.com/in/alberth-condori-quispe-86289a11a/**
 
 ---
-
-## 📁 Featured projects
- 
-> Each project was built to demonstrate a specific architectural concept. Click through to read the full README with tech decisions.
- 
-| Project | What it demonstrates | Stack |
-|---|---|---|
-| [dev-flash](https://github.com/bernarth/dev-flash) | Design and best practices on Angular project | Angular |
- 
----
