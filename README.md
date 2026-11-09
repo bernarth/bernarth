@@ -13,6 +13,6 @@ This GitHub is my **technical portfolio** — every repo here is a project I bui
 - 🌱 Currently deepening: **ASP.NET with .NET 10 and Angular web app**
 - 💬 Ask me about: **C#, Angular, REST API design, clean architecture**
 - 📫 Reach me at: **alberthbernarth@gmail.com**
-- 🔗 LinkedIn: **https://www.linkedin.com/in/alberth-condori-quispe-86289a11a/**
+- 🔗 LinkedIn: **[Alberth Bernarth](https://www.linkedin.com/in/bernarth/)**
 
 ---
