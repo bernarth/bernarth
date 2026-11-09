@@ -8,7 +8,7 @@
  
 I'm a full-stack developer based in **La Paz, Bolivia**, specialized in **.NET** and **Angular**. I care deeply about clean architecture, performance, and writing code that's easy to maintain and reason about.
  
-This GitHub is my **technical portfolio** — every repo here is a project I built intentionally to sharpen a specific skill. Each one comes with documented architecture decisions, so you can see not just *what* I built, but *why* I made each choice.
+This GitHub is my **technical portfolio** - every repo here is a project I built intentionally to sharpen a specific skill. Each one comes with documented architecture decisions, so you can see not just *what* I built, but *why* I made each choice.
  
 - 🌱 Currently deepening: **ASP.NET with .NET 10 and Angular web app**
 - 💬 Ask me about: **C#, Angular, REST API design, clean architecture**
